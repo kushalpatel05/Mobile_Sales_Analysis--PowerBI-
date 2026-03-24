@@ -43,10 +43,9 @@ This project presents an interactive Power BI dashboard built to analyze mobile 
 
 ## 📂 Files Included
 - Power BI Dashboard (.pbix)
-- Dataset (if applicable)
+- Dataset
 - Dashboard Screenshot
 
 
 ---
 
-⭐ If you found this project useful, feel free to give it a star!
